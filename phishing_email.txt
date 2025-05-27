@@ -1,0 +1,22 @@
+From: PayPal Security Team <support@paypai.com>
+To: user@example.com
+Subject: Urgent: Your PayPal Account Will Be Suspended
+Date: Mon, 27 May 2025 10:42:00 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Customer,
+
+We noticed unusual activity in you're PayPal account and have temporary suspended your access to protect your information.
+
+In order to restore you're account access, we kindly ask to you verify you’re identity immediately by clicking the link below:
+
+👉 http://secure-paypai-verification.com/login
+
+If you do not take action within 24 hours, your account will be permanently limited. This is you're final notice!
+
+Sincerely,  
+PayPal Security Team  
+https://www.paypal.com
+
+Attachment: security_update.zip
