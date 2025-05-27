@@ -28,3 +28,8 @@ This repository contains a Python script to analyze phishing emails by checking 
    python test.py
    ```
 5. If using VS Code , you can directly run the code and the report will be displayed in VS code terminal.
+6. For creating a report file in the same folder , run the script with :
+   
+   ```bash
+   python test.py > report.txt
+   ```
