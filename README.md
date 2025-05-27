@@ -10,7 +10,7 @@ This repository contains a Python script to analyze phishing emails by checking 
 - **phishing_email.txt**  
   Sample phishing email text file used as input to the analysis script.
 
-- **report.docx / report.pdf** (optional)  
+- **report.txt**  
   A formatted report summarizing the phishing characteristics found in the sample email.
 
 
