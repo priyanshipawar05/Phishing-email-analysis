@@ -1,0 +1,18 @@
+--- Phishing Analysis Report ---
+
+Spoofed_sender: True
+
+Header_issues:
+
+Suspicious_links:
+ - http://secure-paypai-verification.com/login
+
+Urgent_language:
+
+Grammar_issues:
+ - to you verify
+
+Summary:
+ - Sender address appears spoofed: PayPal Security Team <support@paypai.com>
+ - Suspicious URL found: http://secure-paypai-verification.com/login
+ - Grammar error: to you verify
